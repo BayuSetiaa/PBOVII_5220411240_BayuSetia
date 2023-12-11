@@ -8,8 +8,6 @@
 
 # Diagram UML
 
-![Alt text](diagram.png)
-
 # Studi Kasus Pertemuan 9
 
 Di sebuah hutan yang luas, terdapat beragam makhluk hidup yang menarik yang memiliki ciri-ciri
