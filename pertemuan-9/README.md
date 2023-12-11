@@ -4,7 +4,7 @@
 
 1. Bayu Setia (5220411240)
 2. Zahfar Aziz Ferdian (5220411257)
-3. Jeky Adi Saputra (5220411249)
+3. Jeki Adi Saputra (5220411249)
 
 # Diagram UML
 
