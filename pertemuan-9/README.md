@@ -7,6 +7,7 @@
 3. Jeki Adi Saputra (5220411249)
 
 # Diagram UML
+<img width="602" alt="image" src="https://github.com/BayuSetiaa/PBOVII_5220411240_BayuSetia/assets/114808800/8828203a-aa71-4269-9d8b-67910a3bc425">
 
 # Studi Kasus Pertemuan 9
 
