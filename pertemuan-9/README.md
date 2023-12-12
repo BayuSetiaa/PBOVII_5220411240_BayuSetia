@@ -9,6 +9,9 @@
 # Diagram UML
 <img width="602" alt="image" src="https://github.com/BayuSetiaa/PBOVII_5220411240_BayuSetia/assets/114808800/8828203a-aa71-4269-9d8b-67910a3bc425">
 
+# Output Program
+<img width="817" alt="image" src="https://github.com/BayuSetiaa/PBOVII_5220411240_BayuSetia/assets/114808800/6e71b089-5d72-42c5-9187-355d44d3443f">
+
 # Studi Kasus Pertemuan 9
 
 Di sebuah hutan yang luas, terdapat beragam makhluk hidup yang menarik yang memiliki ciri-ciri
