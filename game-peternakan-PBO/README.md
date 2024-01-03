@@ -1,6 +1,6 @@
 # Cara Memainkan
 
 - python -m venv env
-- source env/Scripts/activate
+- source env/bin/activate
 - pip install pygame
 - python main.py
